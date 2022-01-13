@@ -1,0 +1,25 @@
+{
+  "name": "fantastic-waffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italanleal/fantastic-waffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/italanleal/fantastic-waffle/issues"
+  },
+  "homepage": "https://github.com/italanleal/fantastic-waffle#readme",
+  "dependencies": {
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
